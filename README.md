@@ -13,9 +13,9 @@
 | `bscs25083-docker` | `192.168.83.30` | Part 5: Docker Compose Deployment |
 
 ## Repository Structure
-- `frontend/` — React (Vite) application
-- `backend/` — FastAPI REST API
-- `nginx/` — Nginx reverse proxy & TLS configurations
-- `docker/` — `docker-compose.yml` & container configs
-- `ufw/` — Firewall rule exports from both VMs
-- `docs/` — Evidence screenshots & report drafts
+- `frontend/` ï¿½ React (Vite) application
+- `backend/` ï¿½ Express REST API
+- `nginx/` ï¿½ Nginx reverse proxy & TLS configurations
+- `docker/` ï¿½ `docker-compose.yml` & container configs
+- `ufw/` ï¿½ Firewall rule exports from both VMs
+- `docs/` ï¿½ Evidence screenshots & report drafts
